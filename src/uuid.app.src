@@ -3,5 +3,5 @@
   {vsn, "0.5.2"},
   {modules, [uuid]},
   {registered, []},
-  {applications, [stdlib, crypto]},
+  {applications, [kernel, stdlib, crypto]},
   {env, []}]}.
