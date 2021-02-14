@@ -29,7 +29,7 @@
 
 -include_lib("eunit/include/eunit.hrl").
 
--include("../src/uuid.hrl").
+-include("uuid.hrl").
 
 
 uuid_binary_test() ->
